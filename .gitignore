@@ -1,6 +1,6 @@
-./.vscode
-./data
-./dataset
-./GAN
-./a.exe
-./cnn.pth
+/.vscode
+/data
+/dataset
+/GAN
+/a.exe
+/cnn.pth
